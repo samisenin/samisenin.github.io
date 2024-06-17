@@ -2,25 +2,24 @@
 <?xml-stylesheet type="text/xsl" href="cv_de.xsl"?>
 <resume>
     <personal_info>
-        <name>Amine Boujemaaoui</name>
-        <title>Auszubildender Informatikingenieur</title>
-        <email>amine.boujemaaoui.1@gmail.com</email>
+        <name>Sami Laouaj</name>
+        <title>intern Informatikingenieur</title>
+        <email>SLaouaj@gmail.com</email>
         <address>
-            <street>8 Rue de Vienne</street>
-            <city>Bobigny</city>
+            <street>1 Rue de la rue</street>
+            <city>clichy</city>
             <postal_code>93000</postal_code>
             <country>Frankreich</country>
         </address>
-        <age>23</age>
-        <phone>0769809038</phone>
-        <dob>2000-07-09</dob>
-        <driving_license>ja (Typ: B)</driving_license>
+        <age>21</age>
+        <phone>0666666666</phone>
+        <dob>2002-01-01</dob>
     </personal_info>
     <professional_experience>
         <job>
-            <position>IBMi Entwickler</position>
-            <company>CEGID</company>
-            <description>In einem Team von 15 Personen integriert, entwickle ich Funktionen für ein Lohnabrechnungsprodukt, hauptsächlich unter Verwendung von IBM-Technologien (90%) und Java. Ich entwerfe die Anwendung, analysiere technische Spezifikationen, wähle geeignete Lösungen aus, führe Testszenarien durch und verbessere die UX/UI-Ergonomie.</description>
+            <position>dev bnp</position>
+            <company>bnp</company>
+            <description>Ich bin verantwortlich für die Messung und Beratung von Risiken.</description>
             <start_date>2023-09</start_date>
         </job>
     </professional_experience>
