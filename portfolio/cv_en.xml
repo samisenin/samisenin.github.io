@@ -2,25 +2,24 @@
 <?xml-stylesheet type="text/xsl" href="cv_en.xsl"?>
 <resume>
     <personal_info>
-        <name>Amine Boujemaaoui</name>
-        <title>Apprentice Computer Engineer</title>
+        <name>Sami Laouaj</name>
+        <title>Intern Computer Engineer</title>
         <email>amine.boujemaaoui.1@gmail.com</email>
         <address>
-            <street>8 Rue de Vienne</street>
-            <city>Bobigny</city>
+            <street>1 Rue de la rue</street>
+            <city>clichy</city>
             <postal_code>93000</postal_code>
             <country>France</country>
         </address>
-        <age>23</age>
-        <phone>0769809038</phone>
-        <dob>2000-07-09</dob>
-        <driving_license>yes (Type: B)</driving_license>
+        <age>21</age>
+        <phone>066666666</phone>
+        <dob>2002-01-01</dob>
     </personal_info>
     <professional_experience>
         <job>
-            <position>IBMi Developer</position>
-            <company>CEGID</company>
-            <description>Integrated into a team of 15 people, I develop features for a payroll product, primarily using IBM technologies (90%) and Java. I design the application, analyze technical specifications, choose appropriate solutions, execute test scenarios, and improve UX/UI ergonomics.</description>
+            <position>dev bnp</position>
+            <company>bnp</company>
+            <description>I'm in charge of measuring and couteracting risks.</description>
             <start_date>2023-09</start_date>
         </job>
     </professional_experience>
