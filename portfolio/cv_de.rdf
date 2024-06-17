@@ -6,32 +6,31 @@
          xmlns:vcard="http://www.w3.org/2006/vcard/ns#">
 
   <rdf:Description rdf:about="http://www.example.org/people/AmineBoujemaaoui">
-    <foaf:name>Amine Boujemaaoui</foaf:name>
-    <foaf:title>Auszubildender Informatikingenieur</foaf:title>
-    <vcard:hasEmail rdf:resource="mailto:amine.boujemaaoui.1@gmail.com"/>
+    <foaf:name>Sami Laouaj</foaf:name>
+    <foaf:title>Intern Informatikingenieur</foaf:title>
+    <vcard:hasEmail rdf:resource="mailto:SLaouaj@gmail.com"/>
     <vcard:hasAddress>
       <vcard:Address>
-        <vcard:street-address>8 Rue de Vienne</vcard:street-address>
-        <vcard:locality>Bobigny</vcard:locality>
+        <vcard:street-address>1 Rue de la rue</vcard:street-address>
+        <vcard:locality>clichy</vcard:locality>
         <vcard:postal-code>93000</vcard:postal-code>
         <vcard:country-name>Frankreich</vcard:country-name>
       </vcard:Address>
     </vcard:hasAddress>
-    <foaf:age>23</foaf:age>
+    <foaf:age>21</foaf:age>
     <vcard:hasTelephone rdf:resource="tel:+0769809038"/>
-    <vcard:bday>2000-07-09</vcard:bday>
-    <vcard:hasDrivingLicense>ja (Typ: B)</vcard:hasDrivingLicense>
+    <vcard:bday>2002-01-01</vcard:bday>
 
     <foaf:workplaceHomepage rdf:resource="http://www.cegid.com"/>
     <foaf:currentProject>
       <rdf:Description>
-        <foaf:name>IBMi Entwickler</foaf:name>
+        <foaf:name>dev bnp</foaf:name>
         <foaf:homepage rdf:resource="http://www.cegid.com"/>
-        <rdfs:comment>In einem Team von 15 Personen integriert, entwickle ich Funktionen für ein Lohnabrechnungsprodukt, hauptsächlich unter Verwendung von IBM-Technologien (90%) und Java. Ich entwerfe die Anwendung, analysiere technische Spezifikationen, wähle geeignete Lösungen aus, führe Testszenarien durch und verbessere die UX/UI-Ergonomie.</rdfs:comment>
-        <vcard:role>IBMi Entwickler</vcard:role>
+        <rdfs:comment>Ich bin verantwortlich für die Messung und Beratung von Risiken.</rdfs:comment>
+        <vcard:role>bnp dev</vcard:role>
         <vcard:org>
           <vcard:Organization>
-            <vcard:organization-name>CEGID</vcard:organization-name>
+            <vcard:organization-name>bnp</vcard:organization-name>
           </vcard:Organization>
         </vcard:org>
         <vcard:hasPeriod>
