@@ -7,7 +7,7 @@
   <xsl:template match="/">
     <html>
     <head>
-      <title>Amine Boujemaaoui - Lebenslauf</title>
+      <title>Sami Laouaj</title>
       <style type="text/css">
         body {
           font-family: Arial, sans-serif;
@@ -67,7 +67,7 @@
       <header>
         <div class="container">
           <div id="branding">
-            <h1>Amine Boujemaaoui</h1>
+            <h1>Sami Laouaj</h1>
           </div>
           <nav>
             <ul>
@@ -81,7 +81,7 @@
 
       <section id="main">
         <div class="container">
-          <h1>Auszubildender Informatikingenieur</h1>
+          <h1>dev bnp</h1>
           <p><strong>Name:</strong> <xsl:value-of select="//foaf:name"/></p>
           <p><strong>Titel:</strong> <xsl:value-of select="//foaf:title"/></p>
           <p><strong>Email:</strong> <xsl:value-of select="//vcard:hasEmail/@rdf:resource"/></p>
@@ -108,7 +108,7 @@
       </section>
 
       <footer>
-        <p>Amine Boujemaaoui - Lebenslauf</p>
+        <p>Sami Laouaj</p>
       </footer>
     </body>
     </html>
