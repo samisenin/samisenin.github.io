@@ -5,7 +5,7 @@
   <xsl:template match="/">
     <html>
     <head>
-      <title>Amine Boujemaaoui - CV</title>
+      <title>Sami Laouaj</title>
       <style type="text/css">
         body {
           font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
@@ -55,8 +55,8 @@
     <body>
       <div class="container">
         <header>
-          <h1>Amine Boujemaaoui</h1>
-          <p>Apprentice Computer Engineer</p>
+          <h1>Sami Laouaj</h1>
+          <p>Internship</p>
         </header>
 
         <section>
@@ -73,7 +73,6 @@
           <p><span class="label">Age:</span> <xsl:value-of select="//age"/></p>
           <p><span class="label">Phone:</span> <xsl:value-of select="//phone"/></p>
           <p><span class="label">Date of Birth:</span> <xsl:value-of select="//dob"/></p>
-          <p><span class="label">Driving License:</span> <xsl:value-of select="//driving_license"/></p>
         </section>
 
         <section>
